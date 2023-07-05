@@ -1,0 +1,28 @@
+.container{
+  display:flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;  
+  margin: 10 auto;
+  min-height: 100vh;
+}
+.buttons{
+  display: flex;
+  gap: 20px;
+
+}
+button{
+  padding: 28px 10px;
+  font-size: 25px;
+  border-radius: 8px;
+  
+
+}
+label{
+  padding: 20px 35px;
+  font-size: 30px;
+}
+img{
+  margin-top: 40px;
+  border-radius: 8px;
+}
